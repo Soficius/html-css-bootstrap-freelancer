@@ -9,7 +9,6 @@
     --blue: #0e38b5;
     --beige:#ccb2a3;
 
-
 }
 .bg-green{
     background-color: var(--green);
@@ -37,4 +36,7 @@
 }
 .bg-beige{
     background-color: var(--beige);
+}
+.color-text-dark-grey{
+    color: var(--dark-grey)
 }
