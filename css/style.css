@@ -3,12 +3,18 @@ header{
 height: 100px;
 
 }
-.border{
+/* .border{
     border: 2px solid lime;
-}
+} */
 .b-1-white{
-    border: 0.25rem solid white;
+    border: 1px solid white;
+}
+.b-8-white{
+    border: 8px solid white;
 }
 .m-bottom{
-margin-bottom:1rem;
+    margin-bottom:1rem;
+}
+.text-center{
+    text-align: center;
 }
