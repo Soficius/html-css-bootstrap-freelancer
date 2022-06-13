@@ -1,11 +1,5 @@
 @import "color.css";
-header{
-height: 100px;
 
-}
-/* .border{
-    border: 2px solid lime;
-} */
 .b-1-white{
     border: 1px solid white;
 }
